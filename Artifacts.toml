@@ -1,0 +1,127 @@
+[[ModularForms]]
+arch = "aarch64"
+git-tree-sha1 = "e07d7b79ba6071811f97c318b5f410d29006008a"
+os = "macos"
+
+    [[ModularForms.download]]
+    sha256 = "e0bfdca2bafb659ead748330c5444f6238efed829d6f1a4657a2bca92b9f45fe"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[ModularForms]]
+arch = "aarch64"
+git-tree-sha1 = "cfabe5e9c17799f3dc00f2664d23d5cb2d80fa88"
+libc = "glibc"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "c6fe1050f2d474c16567ee394e6d2e6ca99a39d2a2dc75729a82d4b216eeb504"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[ModularForms]]
+arch = "aarch64"
+git-tree-sha1 = "d08dd98a8836320dc69caf284af26d74e319cf06"
+libc = "musl"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "64f3501b9341cf3a0d0bc04ce45666a31f084525dc9f03d8319aba2c51135b42"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.aarch64-linux-musl.tar.gz"
+[[ModularForms]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1be0efc2bd63b7bf8a62e77c9b99bfa6e9657962"
+libc = "glibc"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "a8420aa5047f095c4942b9f6ce4aac3daa9192382489fd5693eb9d387264ac4a"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[ModularForms]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ccf3c65ae7050c2cf17a89d97016362dd3a10d6f"
+libc = "musl"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "2ddda0a73845c29aaf8ae26304113e1361ee1e3192e438c372f8cf8ee762c1dc"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[ModularForms]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a8081d4c0fe8915681bea749545680e489c9b991"
+libc = "glibc"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "e1c8af6a253318709162798193f8628930fb2f822f9647bf530a77ba7e647d91"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[ModularForms]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "898ee68e3198bad5394f9c77e8a05ebf16ba3d13"
+libc = "musl"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "b50da728293aa97101a3f52392092566194f1f35b500e5008e5906b02778c18f"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[ModularForms]]
+arch = "i686"
+git-tree-sha1 = "8ba7fc962045d97d2fe530528ac729ae1e0ffe30"
+libc = "glibc"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "97a00f8e4504887e95f730d935a4b437dac7891c45893e7572c23afb1da56880"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.i686-linux-gnu.tar.gz"
+[[ModularForms]]
+arch = "i686"
+git-tree-sha1 = "b674ae3e663a6741d3dee90287414e6962c27aa9"
+libc = "musl"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "945552d505f863754df01a8560716eb6b614218e684682c6888cc78233141beb"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.i686-linux-musl.tar.gz"
+[[ModularForms]]
+arch = "powerpc64le"
+git-tree-sha1 = "c4a098cc8779e762344308c307314bb16108b0f3"
+libc = "glibc"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "e9b743bf8fd73c3cc85c893a4bbdd640b2769437c79e85378d842a2737a06070"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[ModularForms]]
+arch = "x86_64"
+git-tree-sha1 = "4d4599149422ec4594354c35c7c07d8bd00a03fb"
+os = "macos"
+
+    [[ModularForms.download]]
+    sha256 = "41ecc223c7c7b8ad94b811adfda4cf941482b232519435fbcf4fbae4caee7a8a"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[ModularForms]]
+arch = "x86_64"
+git-tree-sha1 = "511ab77933af81453fdc1a6056e8d66363788345"
+libc = "glibc"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "7fb922d362b1cc08c491e23e1c353dc89ff1f253479ef96d8727abec923b819a"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[ModularForms]]
+arch = "x86_64"
+git-tree-sha1 = "24c386c8852043e8c159256a4c4a02ff0199c19f"
+libc = "musl"
+os = "linux"
+
+    [[ModularForms.download]]
+    sha256 = "0fa97ece2a3eacd6f567d385865874b2263cb7c38e0eeff14ed9a18751a8851b"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.x86_64-linux-musl.tar.gz"
+[[ModularForms]]
+arch = "x86_64"
+git-tree-sha1 = "29b79befcafea07cc52aa5db1330aee6eefee1f0"
+os = "freebsd"
+
+    [[ModularForms.download]]
+    sha256 = "b6622fdf6cbf4279f628a5f17bf862cef62cc885d09f72fae4f2d7a57010ba4c"
+    url = "https://github.com/JuliaBinaryWrappers/ModularForms_jll.jl/releases/download/ModularForms-v0.1.0+0/ModularForms.v0.1.0.x86_64-unknown-freebsd.tar.gz"
